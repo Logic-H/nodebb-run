@@ -24,7 +24,7 @@ redis支持一条龙安装
 Ubuntu使用代码：
 
 ```
-wget https://github.com/nidbCN/nodeBBrun/blob/Ubuntu/run-latest.sh && chmod u+x run-latest.sh && ./run-latest.sh
+wget https://github.com/Logic-H/nodebb-run/blob/main/run.sh && chmod u+x run.sh && ./run.sh
 ```
 # 当前功能（Ubuntu）
 
