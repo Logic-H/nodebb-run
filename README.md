@@ -24,7 +24,7 @@ redis支持一条龙安装
 Ubuntu使用代码：
 
 ```
-wget https://github.com/Logic-H/nodebb-run/blob/main/run.sh && chmod u+x run.sh && ./run.sh
+wget https://raw.githubusercontent.com/Logic-H/nodebb-run/main/run.sh && chmod u+x run.sh && ./run.sh
 ```
 # 当前功能（Ubuntu）
 
