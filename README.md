@@ -39,7 +39,7 @@ wget https://github.com/nidbCN/nodeBBrun/blob/Ubuntu/run-latest.sh && chmod u+x 
 本人Linux菜鸟，如果有错误或者改正建议还请指正
 
 # Buy me a coffee
-<a href="url"><img src="https://user-images.githubusercontent.com/42613665/131843816-3b2016ad-a15f-49c8-a3f1-995527f962a7.jpg" align="left" height="48"></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/42613665/131843816-3b2016ad-a15f-49c8-a3f1-995527f962a7.jpg" align="left" height="480"></a>
 
 
 
