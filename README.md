@@ -21,10 +21,10 @@ redis支持一条龙安装
 
 # 食用方法
 
-Ubuntu使用代码：
+Ubuntu使用代码（root下执行）：
 
 ```
-wget https://raw.githubusercontent.com/Logic-H/nodebb-run/main/run.sh && chmod u+x run.sh && ./run.sh
+bash <(curl -s -L https://raw.githubusercontent.com/Logic-H/nodebb-run/main/run.sh)
 ```
 # 当前功能（Ubuntu）
 
